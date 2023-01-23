@@ -1,3 +1,17 @@
+# Website Functionalities: 
+
+The Home Page consists of 6 exercises that the user can see in gif format along with pagination underneath it so they can see more exercises without redirecting to other pages.
+
+It also has a search bar where the user can type in what kind of exercise they want to see.
+
+The Home Page also has cards where the user can search for exercises based on body part (Leg, Arms, etc)
+
+All of the exercises are retrieved from the ExerciseDB API accessed from RapidAPI.
+
+The second page is the Exercise Detail page, which the user can navigate to when they click on a gif of an exercise. This is where they can see a short description of how to perform the exercise, what body part it targets. 
+
+This page also has youtube videos of those exercises, as well as similar exercises the user searched for.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
